@@ -1,0 +1,37 @@
+body {
+    font-family:Verdana, Geneva, Arial, sans-serif;
+    font-size:small;
+    line-height: 1.6em;
+}
+
+h1,h2 {
+
+color: rgb(244, 140, 13);
+
+}
+
+h1 {
+    font-size: 150%;
+}
+h2 {
+    font-size: 130%;
+}
+#guarantee {
+    color: rgb(11, 5, 5);
+    font-style: italic;
+    border-color: black;
+    border-width: 1px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 0px;
+    border-style: dashed;
+    background-color: aqua;
+    padding: 25px;
+    padding-left: 100px;
+    margin: 30px;
+    margin-right: 200px;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
